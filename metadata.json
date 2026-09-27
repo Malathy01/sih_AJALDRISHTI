@@ -1,0 +1,10 @@
+{
+  "name": "Remix JALDRISHTI — Marine Decision Twin",
+  "description": "Agentic Marine Decision Twin for Safe, Sustainable and Intelligent Fishing (SIH 2026 Problem ID: 26176) with PFZ intelligence, ocean-state risk assessment, what-if trip simulation, collaborative multi-agent reasoning in Tamil and English, and coastal authority management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
